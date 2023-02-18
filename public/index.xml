@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jungin Park</title>
-    <link>https://jipark.github.io/</link>
-      <atom:link href="https://jipark.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://park-jungin.github.io/</link>
+      <atom:link href="https://park-jungin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jungin Park</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jipark.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://park-jungin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Jungin Park</title>
-      <link>https://jipark.github.io/</link>
+      <link>https://park-jungin.github.io/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jipark.github.io/post/wacv2023/</link>
+      <link>https://park-jungin.github.io/post/wacv2023/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/post/wacv2023/</guid>
+      <guid>https://park-jungin.github.io/post/wacv2023/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -89,9 +89,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Language-free Training for Zero-shot Video Grounding</title>
-      <link>https://jipark.github.io/publication/wacv2023/</link>
+      <link>https://park-jungin.github.io/publication/wacv2023/</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/wacv2023/</guid>
+      <guid>https://park-jungin.github.io/publication/wacv2023/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -114,9 +114,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>PointFix: Learning to Fix Domian Bias for Robust Online Stereo Adaptation</title>
-      <link>https://jipark.github.io/publication/eccv2022/</link>
+      <link>https://park-jungin.github.io/publication/eccv2022/</link>
       <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/eccv2022/</guid>
+      <guid>https://park-jungin.github.io/publication/eccv2022/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -139,9 +139,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title></title>
-      <link>https://jipark.github.io/post/eccv2022/</link>
+      <link>https://park-jungin.github.io/post/eccv2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/post/eccv2022/</guid>
+      <guid>https://park-jungin.github.io/post/eccv2022/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -214,9 +214,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title></title>
-      <link>https://jipark.github.io/post/cvpr2022/</link>
+      <link>https://park-jungin.github.io/post/cvpr2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/post/cvpr2022/</guid>
+      <guid>https://park-jungin.github.io/post/cvpr2022/</guid>
       <description>&lt;!-- ```python
 import libr
 print(&#39;hello&#39;)
@@ -289,9 +289,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Development of Multimodal-based General-purpose Social Artificial Intelligence Technology</title>
-      <link>https://jipark.github.io/project/project4/</link>
+      <link>https://park-jungin.github.io/project/project4/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/project/project4/</guid>
+      <guid>https://park-jungin.github.io/project/project4/</guid>
       <description>&lt;p&gt;Research on artificial intelligence technology that can mimic various human abilities by using image/video, voice/audio, and text/natural language, which are the basis of artificial intelligence.&lt;/p&gt;
 &lt;p&gt;Complex and comprehensive scene understanding using multimodal signals, user understanding, virtual space-time synthesis technology, and development of a general-purpose social artificial intelligence system through the integration of these technologies.&lt;/p&gt;
 </description>
@@ -299,9 +299,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Pin the Memory: Learning to Generalize Semantic Segmentation</title>
-      <link>https://jipark.github.io/publication/cvpr2022-2/</link>
+      <link>https://park-jungin.github.io/publication/cvpr2022-2/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/cvpr2022-2/</guid>
+      <guid>https://park-jungin.github.io/publication/cvpr2022-2/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -324,9 +324,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Probabilistic Representations for Video Contrastive Learning</title>
-      <link>https://jipark.github.io/publication/cvpr2022-1/</link>
+      <link>https://park-jungin.github.io/publication/cvpr2022-1/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/cvpr2022-1/</guid>
+      <guid>https://park-jungin.github.io/publication/cvpr2022-1/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -349,9 +349,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Self-Balanced Learning for Domain Generalization</title>
-      <link>https://jipark.github.io/publication/icip2021/</link>
+      <link>https://park-jungin.github.io/publication/icip2021/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/icip2021/</guid>
+      <guid>https://park-jungin.github.io/publication/icip2021/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -374,9 +374,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering</title>
-      <link>https://jipark.github.io/publication/cvpr2021/</link>
+      <link>https://park-jungin.github.io/publication/cvpr2021/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/cvpr2021/</guid>
+      <guid>https://park-jungin.github.io/publication/cvpr2021/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -399,9 +399,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Development of Complex Situational Awareness and Prediction Technology through Multi-modal Data Fusion and Social Artificial Intelligence</title>
-      <link>https://jipark.github.io/project/project3/</link>
+      <link>https://park-jungin.github.io/project/project3/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/project/project3/</guid>
+      <guid>https://park-jungin.github.io/project/project3/</guid>
       <description>&lt;p&gt;Developing source technology for complext scene understanding and future prediction through artificial intelligence neural networks.&lt;/p&gt;
 &lt;p&gt;Integrating complementary information in multiple ways through convergence between multimodal data.&lt;/p&gt;
 &lt;p&gt;Describing human social intelligence to develop complex relationship reasoning skills bewteen multiple objects and surrounding environments through learning of a social AI.&lt;/p&gt;
@@ -410,9 +410,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation</title>
-      <link>https://jipark.github.io/publication/aaai2021/</link>
+      <link>https://park-jungin.github.io/publication/aaai2021/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/aaai2021/</guid>
+      <guid>https://park-jungin.github.io/publication/aaai2021/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -435,9 +435,9 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>SumGraph: Video Summarization via Recursive Graph Modeling</title>
-      <link>https://jipark.github.io/publication/eccv2020/</link>
+      <link>https://park-jungin.github.io/publication/eccv2020/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/eccv2020/</guid>
+      <guid>https://park-jungin.github.io/publication/eccv2020/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -460,17 +460,17 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/m
     
     <item>
       <title>Development of AI Technology for Continuously Improves according to the Changing Situation in the Real World</title>
-      <link>https://jipark.github.io/project/project2/</link>
+      <link>https://park-jungin.github.io/project/project2/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/project/project2/</guid>
+      <guid>https://park-jungin.github.io/project/project2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2nd Award</title>
-      <link>https://jipark.github.io/talk/2nd-award/</link>
+      <link>https://park-jungin.github.io/talk/2nd-award/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/talk/2nd-award/</guid>
+      <guid>https://park-jungin.github.io/talk/2nd-award/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -492,9 +492,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Context-Aware Emotion Recognition Networks</title>
-      <link>https://jipark.github.io/publication/iccv2019/</link>
+      <link>https://park-jungin.github.io/publication/iccv2019/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/iccv2019/</guid>
+      <guid>https://park-jungin.github.io/publication/iccv2019/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -517,9 +517,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Video Summarization by Learning Relationships between Action and Scene</title>
-      <link>https://jipark.github.io/publication/iccvw2019/</link>
+      <link>https://park-jungin.github.io/publication/iccvw2019/</link>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/iccvw2019/</guid>
+      <guid>https://park-jungin.github.io/publication/iccvw2019/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -542,9 +542,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Graph Regularization Network with Semantic Affinity for Weakly-supervised Temporal Action Localization</title>
-      <link>https://jipark.github.io/publication/icip2019/</link>
+      <link>https://park-jungin.github.io/publication/icip2019/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/icip2019/</guid>
+      <guid>https://park-jungin.github.io/publication/icip2019/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -567,9 +567,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://jipark.github.io/publication_unused/preprint/</link>
+      <link>https://park-jungin.github.io/publication_unused/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication_unused/preprint/</guid>
+      <guid>https://park-jungin.github.io/publication_unused/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -581,9 +581,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Slides</title>
-      <link>https://jipark.github.io/slides/example/</link>
+      <link>https://park-jungin.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/slides/example/</guid>
+      <guid>https://park-jungin.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -706,9 +706,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Learning to Detect, Associate, and Recognize Human Actions and Surrounding Scenes in Untrimmed Videos</title>
-      <link>https://jipark.github.io/publication/mmw2018/</link>
+      <link>https://park-jungin.github.io/publication/mmw2018/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication/mmw2018/</guid>
+      <guid>https://park-jungin.github.io/publication/mmw2018/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -731,9 +731,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Fundamental Study of Vision Algorithms for Comprehensive and Through Understanding of Videos</title>
-      <link>https://jipark.github.io/project/project1/</link>
+      <link>https://park-jungin.github.io/project/project1/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/project/project1/</guid>
+      <guid>https://park-jungin.github.io/project/project1/</guid>
       <description>&lt;p&gt;Developing artificial intelligence/machine learning source technology through future situation prediction research through human-like comprehensive video understanding.&lt;/p&gt;
 &lt;p&gt;Comprehensive video understanding includes contextual information through correlation analysis between human emotion/action/surrounding scene.&lt;/p&gt;
 &lt;p&gt;Development of emotion recognition technology through video-based interaction of emotion/action/environment.&lt;/p&gt;
@@ -744,9 +744,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://jipark.github.io/publication_unused/journal-article/</link>
+      <link>https://park-jungin.github.io/publication_unused/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/publication_unused/journal-article/</guid>
+      <guid>https://park-jungin.github.io/publication_unused/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -763,9 +763,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://jipark.github.io/admin/config.yml</link>
+      <link>https://park-jungin.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jipark.github.io/admin/config.yml</guid>
+      <guid>https://park-jungin.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
