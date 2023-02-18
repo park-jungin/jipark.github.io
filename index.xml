@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jungin Park</title><link>https://jipark.github.io/</link><atom:link href="https://jipark.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Jungin Park</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://jipark.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Jungin Park</title><link>https://jipark.github.io/</link></image><item><title/><link>https://jipark.github.io/post/wacv2023/</link><pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/post/wacv2023/</guid><description>&lt;!-- ```python
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jungin Park</title><link>https://park-jungin.github.io/</link><atom:link href="https://park-jungin.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Jungin Park</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://park-jungin.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Jungin Park</title><link>https://park-jungin.github.io/</link></image><item><title/><link>https://park-jungin.github.io/post/wacv2023/</link><pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/post/wacv2023/</guid><description>&lt;!-- ```python
 import libr
 print('hello')
 ```
@@ -43,7 +43,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 ## License
 Copyright 2016-present [George Cushen](https://georgecushen.com).
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title>Language-free Training for Zero-shot Video Grounding</title><link>https://jipark.github.io/publication/wacv2023/</link><pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/wacv2023/</guid><description>&lt;!--
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title>Language-free Training for Zero-shot Video Grounding</title><link>https://park-jungin.github.io/publication/wacv2023/</link><pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/wacv2023/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -57,7 +57,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>PointFix: Learning to Fix Domian Bias for Robust Online Stereo Adaptation</title><link>https://jipark.github.io/publication/eccv2022/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/eccv2022/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>PointFix: Learning to Fix Domian Bias for Robust Online Stereo Adaptation</title><link>https://park-jungin.github.io/publication/eccv2022/</link><pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/eccv2022/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -71,7 +71,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title/><link>https://jipark.github.io/post/eccv2022/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/post/eccv2022/</guid><description>&lt;!-- ```python
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title/><link>https://park-jungin.github.io/post/eccv2022/</link><pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/post/eccv2022/</guid><description>&lt;!-- ```python
 import libr
 print('hello')
 ```
@@ -116,7 +116,7 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 ## License
 Copyright 2016-present [George Cushen](https://georgecushen.com).
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title/><link>https://jipark.github.io/post/cvpr2022/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/post/cvpr2022/</guid><description>&lt;!-- ```python
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title/><link>https://park-jungin.github.io/post/cvpr2022/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/post/cvpr2022/</guid><description>&lt;!-- ```python
 import libr
 print('hello')
 ```
@@ -161,8 +161,8 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 ## License
 Copyright 2016-present [George Cushen](https://georgecushen.com).
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title>Development of Multimodal-based General-purpose Social Artificial Intelligence Technology</title><link>https://jipark.github.io/project/project4/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/project/project4/</guid><description>&lt;p>Research on artificial intelligence technology that can mimic various human abilities by using image/video, voice/audio, and text/natural language, which are the basis of artificial intelligence.&lt;/p>
-&lt;p>Complex and comprehensive scene understanding using multimodal signals, user understanding, virtual space-time synthesis technology, and development of a general-purpose social artificial intelligence system through the integration of these technologies.&lt;/p></description></item><item><title>Pin the Memory: Learning to Generalize Semantic Segmentation</title><link>https://jipark.github.io/publication/cvpr2022-2/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/cvpr2022-2/</guid><description>&lt;!--
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. --></description></item><item><title>Development of Multimodal-based General-purpose Social Artificial Intelligence Technology</title><link>https://park-jungin.github.io/project/project4/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/project/project4/</guid><description>&lt;p>Research on artificial intelligence technology that can mimic various human abilities by using image/video, voice/audio, and text/natural language, which are the basis of artificial intelligence.&lt;/p>
+&lt;p>Complex and comprehensive scene understanding using multimodal signals, user understanding, virtual space-time synthesis technology, and development of a general-purpose social artificial intelligence system through the integration of these technologies.&lt;/p></description></item><item><title>Pin the Memory: Learning to Generalize Semantic Segmentation</title><link>https://park-jungin.github.io/publication/cvpr2022-2/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/cvpr2022-2/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -176,7 +176,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Probabilistic Representations for Video Contrastive Learning</title><link>https://jipark.github.io/publication/cvpr2022-1/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/cvpr2022-1/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Probabilistic Representations for Video Contrastive Learning</title><link>https://park-jungin.github.io/publication/cvpr2022-1/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/cvpr2022-1/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -190,7 +190,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Self-Balanced Learning for Domain Generalization</title><link>https://jipark.github.io/publication/icip2021/</link><pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/icip2021/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Self-Balanced Learning for Domain Generalization</title><link>https://park-jungin.github.io/publication/icip2021/</link><pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/icip2021/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -204,7 +204,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering</title><link>https://jipark.github.io/publication/cvpr2021/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/cvpr2021/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering</title><link>https://park-jungin.github.io/publication/cvpr2021/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/cvpr2021/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -218,9 +218,9 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Development of Complex Situational Awareness and Prediction Technology through Multi-modal Data Fusion and Social Artificial Intelligence</title><link>https://jipark.github.io/project/project3/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://jipark.github.io/project/project3/</guid><description>&lt;p>Developing source technology for complext scene understanding and future prediction through artificial intelligence neural networks.&lt;/p>
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Development of Complex Situational Awareness and Prediction Technology through Multi-modal Data Fusion and Social Artificial Intelligence</title><link>https://park-jungin.github.io/project/project3/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/project/project3/</guid><description>&lt;p>Developing source technology for complext scene understanding and future prediction through artificial intelligence neural networks.&lt;/p>
 &lt;p>Integrating complementary information in multiple ways through convergence between multimodal data.&lt;/p>
-&lt;p>Describing human social intelligence to develop complex relationship reasoning skills bewteen multiple objects and surrounding environments through learning of a social AI.&lt;/p></description></item><item><title>Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation</title><link>https://jipark.github.io/publication/aaai2021/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/aaai2021/</guid><description>&lt;!--
+&lt;p>Describing human social intelligence to develop complex relationship reasoning skills bewteen multiple objects and surrounding environments through learning of a social AI.&lt;/p></description></item><item><title>Cross-Domain Grouping and Alignment for Domain Adaptive Semantic Segmentation</title><link>https://park-jungin.github.io/publication/aaai2021/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/aaai2021/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -234,7 +234,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>SumGraph: Video Summarization via Recursive Graph Modeling</title><link>https://jipark.github.io/publication/eccv2020/</link><pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/eccv2020/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>SumGraph: Video Summarization via Recursive Graph Modeling</title><link>https://park-jungin.github.io/publication/eccv2020/</link><pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/eccv2020/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -248,7 +248,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Development of AI Technology for Continuously Improves according to the Changing Situation in the Real World</title><link>https://jipark.github.io/project/project2/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>https://jipark.github.io/project/project2/</guid><description/></item><item><title>2nd Award</title><link>https://jipark.github.io/talk/2nd-award/</link><pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/talk/2nd-award/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Development of AI Technology for Continuously Improves according to the Changing Situation in the Real World</title><link>https://park-jungin.github.io/project/project2/</link><pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/project/project2/</guid><description/></item><item><title>2nd Award</title><link>https://park-jungin.github.io/talk/2nd-award/</link><pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/talk/2nd-award/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
@@ -258,7 +258,7 @@ Slides can be added in a few ways:
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Context-Aware Emotion Recognition Networks</title><link>https://jipark.github.io/publication/iccv2019/</link><pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/iccv2019/</guid><description>&lt;!--
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Context-Aware Emotion Recognition Networks</title><link>https://park-jungin.github.io/publication/iccv2019/</link><pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/iccv2019/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -272,7 +272,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Video Summarization by Learning Relationships between Action and Scene</title><link>https://jipark.github.io/publication/iccvw2019/</link><pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/iccvw2019/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Video Summarization by Learning Relationships between Action and Scene</title><link>https://park-jungin.github.io/publication/iccvw2019/</link><pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/iccvw2019/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -286,7 +286,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Graph Regularization Network with Semantic Affinity for Weakly-supervised Temporal Action Localization</title><link>https://jipark.github.io/publication/icip2019/</link><pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/icip2019/</guid><description>&lt;!--
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Graph Regularization Network with Semantic Affinity for Weakly-supervised Temporal Action Localization</title><link>https://park-jungin.github.io/publication/icip2019/</link><pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/icip2019/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -300,12 +300,12 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>An example preprint / working paper</title><link>https://jipark.github.io/publication_unused/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication_unused/preprint/</guid><description>&lt;div class="alert alert-note">
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>An example preprint / working paper</title><link>https://park-jungin.github.io/publication_unused/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication_unused/preprint/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Slides</title><link>https://jipark.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://jipark.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Slides</title><link>https://park-jungin.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -416,7 +416,7 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Learning to Detect, Associate, and Recognize Human Actions and Surrounding Scenes in Untrimmed Videos</title><link>https://jipark.github.io/publication/mmw2018/</link><pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication/mmw2018/</guid><description>&lt;!--
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Learning to Detect, Associate, and Recognize Human Actions and Surrounding Scenes in Untrimmed Videos</title><link>https://park-jungin.github.io/publication/mmw2018/</link><pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication/mmw2018/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -430,11 +430,11 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Fundamental Study of Vision Algorithms for Comprehensive and Through Understanding of Videos</title><link>https://jipark.github.io/project/project1/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://jipark.github.io/project/project1/</guid><description>&lt;p>Developing artificial intelligence/machine learning source technology through future situation prediction research through human-like comprehensive video understanding.&lt;/p>
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Fundamental Study of Vision Algorithms for Comprehensive and Through Understanding of Videos</title><link>https://park-jungin.github.io/project/project1/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/project/project1/</guid><description>&lt;p>Developing artificial intelligence/machine learning source technology through future situation prediction research through human-like comprehensive video understanding.&lt;/p>
 &lt;p>Comprehensive video understanding includes contextual information through correlation analysis between human emotion/action/surrounding scene.&lt;/p>
 &lt;p>Development of emotion recognition technology through video-based interaction of emotion/action/environment.&lt;/p>
 &lt;p>Development of human-centric comprehensive video scene analysis and action recognition technology.&lt;/p>
-&lt;p>Development of environmental change prediction technology through comprehensive situational recognition.&lt;/p></description></item><item><title>An example journal article</title><link>https://jipark.github.io/publication_unused/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://jipark.github.io/publication_unused/journal-article/</guid><description>&lt;div class="alert alert-note">
+&lt;p>Development of environmental change prediction technology through comprehensive situational recognition.&lt;/p></description></item><item><title>An example journal article</title><link>https://park-jungin.github.io/publication_unused/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/publication_unused/journal-article/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -444,4 +444,4 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://jipark.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jipark.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://park-jungin.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://park-jungin.github.io/admin/config.yml</guid><description/></item></channel></rss>
