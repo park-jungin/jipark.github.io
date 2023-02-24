@@ -48,7 +48,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Pin_the_Memory_Learning_To_Generalize_Semantic_Segmentation_CVPR_2022_paper.pdf'
-url_code: ''
+url_code: 'https://github.com/Genie-Kim/PintheMemory'
 url_dataset: ''
 url_poster: ''
 url_project: ''
