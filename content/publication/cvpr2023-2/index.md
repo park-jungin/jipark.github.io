@@ -1,26 +1,24 @@
 ---
-title: 'PointFix: Learning to Fix Domian Bias for Robust Online Stereo Adaptation'
+title: 'Dual-path Adaptation from Image to Video Transformers'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Kwonyoung Kim
   - admin
   - Jiyoung Lee
-  - Dongbo Min
   - Kwanghoon Sohn
 
 # Author notes (optional)
 author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2022-07-13T00:00:00Z'
+date: '2023-02-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-05T00:00:00Z'
+publishDate: '2023-02-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,13 +27,15 @@ publishDate: '2022-10-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *European Conference on Computer Vision*
-publication_short: In *ECCV 2022*
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR 2023*
 
-abstract: Online stereo adaptation tackles the domain shift problem, caused by different environments between synthetic (training) and real (test) datasets, to promptly adapt stereo models in dynamic real-world applications such as autonomous driving. However, previous methods often fail to counteract particular regions related to dynamic objects with more severe environmental changes. To mitigate this issue, we propose to incorporate an auxiliary point-selective network into a meta-learning framework, called PointFix, to provide a robust initialization of stereo models for online stereo adaptation. In a nutshell, our auxiliary network learns to fix local variants intensively by effectively back-propagating local information through the meta-gradient for the robust initialization of the baseline model. This network is model-agnostic, so can be used in any kind of architectures in a plug-and-play manner. We conduct extensive experiments to verify the effectiveness of our method under three adaptation settings such as short-, mid-, and long-term sequences. Experimental results show that the proper initialization of the base stereo model by the auxiliary network enables our learning paradigm to achieve state-of-the-art performance at inference.
+abstract: In this paper, we efficiently transfer the surpassing representation power of the vision foundation model, such as ViT, for video understanding with only a few trainable parameters. Previous adaptation methods have simultaneously considered spatial and temporal modeling with a unified learnable module but still suffered from fully leveraging the representative capabilities of ViT. In this work, we argue that the popular dual-path (two-stream) architecture in video models can mitigate this problem. To this end, we propose a novel DualPath adaptation separated into spatial and temporal adaptation paths, where a lightweight bottleneck adapter is employed in each transformer block. Especially for temporal dynamic modeling, we incorporate consecutive frames into a grid-like frameset to precisely imitate vision transformers' capability that extrapolates relationships between tokens.
+   In addition, we extensively investigate the multiple baselines from a unified perspective in video understanding and compare them with DualPath. Experimental results on four action recognition benchmarks prove that pretrained image transformers with DualPath can be effectively generalized beyond the data domain.
+   The code is available at <https://anonymous.4open.science/r/DualPath-2D3F/>.
 
 # Summary. An optional shortened abstract.
-summary: European Conference on Computer Vision (ECCV) 2022
+summary: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 
 tags: []
 
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

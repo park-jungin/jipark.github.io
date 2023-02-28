@@ -8,6 +8,7 @@ authors:
   - Dahye Kim
   - admin
   - Jiyoung Lee
+  - Seongheon Park
   - Kwanghoon Sohn
 
 # Author notes (optional)

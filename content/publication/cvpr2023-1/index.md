@@ -1,14 +1,14 @@
 ---
-title: 'PointFix: Learning to Fix Domian Bias for Robust Online Stereo Adaptation'
+title: 'PartMix: Regularization Strategy to Learn Part Discovery for Visible-Infrared Person Re-identification'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Kwonyoung Kim
+  - Minsu Kim
+  - Seungryong Kim
   - admin
-  - Jiyoung Lee
-  - Dongbo Min
+  - Seongheon Park
   - Kwanghoon Sohn
 
 # Author notes (optional)
@@ -16,11 +16,11 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2022-07-13T00:00:00Z'
+date: '2023-02-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-10-05T00:00:00Z'
+publishDate: '2023-02-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,13 +29,13 @@ publishDate: '2022-10-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *European Conference on Computer Vision*
-publication_short: In *ECCV 2022*
+publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
+publication_short: In *CVPR 2023*
 
-abstract: Online stereo adaptation tackles the domain shift problem, caused by different environments between synthetic (training) and real (test) datasets, to promptly adapt stereo models in dynamic real-world applications such as autonomous driving. However, previous methods often fail to counteract particular regions related to dynamic objects with more severe environmental changes. To mitigate this issue, we propose to incorporate an auxiliary point-selective network into a meta-learning framework, called PointFix, to provide a robust initialization of stereo models for online stereo adaptation. In a nutshell, our auxiliary network learns to fix local variants intensively by effectively back-propagating local information through the meta-gradient for the robust initialization of the baseline model. This network is model-agnostic, so can be used in any kind of architectures in a plug-and-play manner. We conduct extensive experiments to verify the effectiveness of our method under three adaptation settings such as short-, mid-, and long-term sequences. Experimental results show that the proper initialization of the base stereo model by the auxiliary network enables our learning paradigm to achieve state-of-the-art performance at inference.
+abstract: Modern data augmentation using a mixture-based technique can regularize the models from overfitting to the training data in various computer vision applications, but a proper data augmentation technique tailored for the part-based Visible-Infrared person Re-IDentification (VI-ReID) models remains unexplored. In this paper, we present a novel data augmentation technique, dubbed \textbf{PartMix}, that synthesizes the augmented samples by mixing the part descriptors across the modalities to improve the performance of part-based VI-ReID models. Especially, we synthesize the positive and negative samples within the same and across different identities and regularize the backbone model through contrastive learning. In addition, we also present an entropy-based mining strategy to weaken the adverse impact of unreliable positive and negative samples. When incorporated into existing part-based VI-ReID model, PartMix consistently boosts the performance. We conduct experiments to demonstrate the effectiveness of our PartMix over the existing VI-ReID methods and provide ablation studies.
 
 # Summary. An optional shortened abstract.
-summary: European Conference on Computer Vision (ECCV) 2022
+summary: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
 
 tags: []
 
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
