@@ -30,9 +30,7 @@ publication_types: ['1']
 publication: In *IEEE/CVF Conference on Computer Vision and Pattern Recognition*
 publication_short: In *CVPR 2023*
 
-abstract: In this paper, we efficiently transfer the surpassing representation power of the vision foundation model, such as ViT, for video understanding with only a few trainable parameters. Previous adaptation methods have simultaneously considered spatial and temporal modeling with a unified learnable module but still suffered from fully leveraging the representative capabilities of ViT. In this work, we argue that the popular dual-path (two-stream) architecture in video models can mitigate this problem. To this end, we propose a novel DualPath adaptation separated into spatial and temporal adaptation paths, where a lightweight bottleneck adapter is employed in each transformer block. Especially for temporal dynamic modeling, we incorporate consecutive frames into a grid-like frameset to precisely imitate vision transformers' capability that extrapolates relationships between tokens.
-   In addition, we extensively investigate the multiple baselines from a unified perspective in video understanding and compare them with DualPath. Experimental results on four action recognition benchmarks prove that pretrained image transformers with DualPath can be effectively generalized beyond the data domain.
-   The code is available at <https://anonymous.4open.science/r/DualPath-2D3F/>.
+abstract: In this paper, we efficiently transfer the surpassing representation power of the vision foundation models, such as ViT and Swin, for video understanding with only a few trainable parameters. Previous adaptation methods have simultaneously considered spatial and temporal modeling with a unified learnable module but still suffered from fully leveraging nthe representative capabilities of image transformers. We argue that the popular dual-path (two-stream) architecture in video models can mitigate this problem. We propose a novel DUALPATH adaptation separated into spatial and temporal adaptation paths, where a lightweight bottleneck adapter is employed in each transformer block. Especially for temporal dynamic modeling, we incorporate consecutive frames into a grid-like frameset to precisely imitate vision transformers’ capability that extrapolates relationships between tokens. In addition, we extensively investigate the multiple baselines from a unified perspective in video understanding and compare them with DUALPATH. Experimental results on four action recognition benchmarks prove that pretrained image transformers with DUALPATH can be effectively generalized beyond the data domain.
 
 # Summary. An optional shortened abstract.
 summary: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023
@@ -47,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2303.09857'
+url_code: 'https://github.com/park-jungin/DualPath'
 url_dataset: ''
 url_poster: ''
 url_project: ''
