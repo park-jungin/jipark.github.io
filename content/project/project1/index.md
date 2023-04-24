@@ -1,5 +1,5 @@
 ---
-title: Fundamental Study of Vision Algorithms for Comprehensive and Through Understanding of Videos
+title: Fundamental Research on Vision Algorithms for Comprehensive and Thorough Video Understanding
 summary: Funded by Ministry of science, ICT and future plannning.
 tags:
   - Deep Learning
