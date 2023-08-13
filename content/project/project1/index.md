@@ -10,7 +10,7 @@ external_link: ''
 
 # image:
 #   caption: Overall procedure for developing social artificial intelligence
-#   focal_point: Smart
+#   focal_point: Smart`
 
 # links:
 #   - icon: twitter
