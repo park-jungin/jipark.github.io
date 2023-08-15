@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2303.09857'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Dual-Path_Adaptation_From_Image_to_Video_Transformers_CVPR_2023_paper.pdf'
 url_code: 'https://github.com/park-jungin/DualPath'
 url_dataset: ''
 url_poster: ''
