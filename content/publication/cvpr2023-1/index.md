@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_PartMix_Regularization_Strategy_To_Learn_Part_Discovery_for_Visible-Infrared_Person_CVPR_2023_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
