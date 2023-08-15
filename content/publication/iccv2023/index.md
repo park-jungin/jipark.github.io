@@ -5,7 +5,7 @@ title: 'Knowing Where to Look: Event-aware Transformer for Video Grounding'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Jiyoung Lee
+  - Jinhyun Jang
   - admin
   - Jin Kim
   - Hyeongjun Kwon
@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2308.06947'
 url_code: 'https://github.com/jinhyunj/EaTR'
 url_dataset: ''
 url_poster: ''
