@@ -3,7 +3,7 @@
 # subtitle: Our paper on zero-shot video grounding was accepted to WACV 2023.
 
 # Summary for listings and search engines
-summary: Our paper on online stereo adaptation was accepted to **ECCV** 2022.
+summary: Our paper on vision-language space mapping was accepted to **ICLR** 2024.
 
 # Link this post with a project
 projects: []
@@ -12,7 +12,7 @@ projects: []
 # date: '2022-10T00:00:00Z'
 
 # Date updated
-lastmod: '2022-07-01T00:00:00Z'
+lastmod: '2024-01-15T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
