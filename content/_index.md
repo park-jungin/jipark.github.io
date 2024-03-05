@@ -104,12 +104,13 @@ sections:
           company_logo: ''
           location: Soeul, South Korea
           date_start: '2018-03-01'
-          date_end: ''
+          date_end: '2024-02-26'
           description: |2-
               Research topics include:
 
               * Computer vision
               * Video understanding
+              * Multi-modal learning
               * Vision-language models
         - title: BS in Electrical and Electronic Engineering
           company: Yonsei University
