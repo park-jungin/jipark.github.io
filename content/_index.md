@@ -102,7 +102,7 @@ sections:
           company: Yonsei University
           company_url: ''
           company_logo: ''
-          location: Soeul, South Korea
+          location: Seoul, South Korea
           date_start: '2024-09-07'
           date_end: ''
           description: |2-
@@ -138,7 +138,7 @@ sections:
           company: Yonsei University
           company_url: ''
           company_logo: ''
-          location: Soeul, South Korea
+          location: Seoul, South Korea
           date_start: '2018-03-01'
           date_end: '2024-02-26'
           description: |2-
@@ -148,7 +148,7 @@ sections:
           company: Yonsei University
           company_url: ''
           company_logo: ''
-          location: Soeul, South Korea
+          location: Seoul, South Korea
           date_start: '2012-03-01'
           date_end: '2018-02-28'
           description: 
