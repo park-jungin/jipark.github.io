@@ -11,8 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  # - 'Equal contribution'
-  # - 'Equal contribution'
+  - ''
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2024-01-15T00:00:00Z'
 doi: ''
@@ -30,7 +31,7 @@ publication_types: ['1']
 publication: In *International Conference on Learning Representations*
 publication_short: In *ICLR 2024*
 
-abstract: This paper introduces VLAP, a novel approach that bridges pretrained vision models and large language models (LLMs) to make frozen LLMs a model of the non-linguistic visual world. VLAP transforms the embedding space of pretrained vision models into the LLMs’ embedding space using a single linear layer, which is trained with the optimal transport-based assignment prediction objective. Specifically, we harness well-established word embeddings to bridge two modality embedding spaces. We simultaneously assign the visual and text representations to a set of word embeddings within pretrained LLMs through the optimal transport. We predict the assignment of one modality from the representation of another modality data, enforcing consistent assignments for paired multimodal data. This allows two modality representations to contain the same information, grounding the frozen LLMs’ word embedding space in visual data. Moreover, a robust semantic taxonomy of LLMs can be preserved with visual data since the LLMs interpret and reason linguistic information from correlations between word embeddings. Experimental results show that VLAP achieves substantial improvements over the previous linear transformation-based methods across a range of vision-language tasks, including image captioning, visual question answering, and cross-modal retrieval. We also demonstrate the learned visual representations hold a semantic taxonomy of LLMs, making visual semantic arithmetic possible
+abstract: This paper introduces VLAP, a novel approach that bridges pretrained vision models and large language models (LLMs) to make frozen LLMs a model of the non-linguistic visual world. VLAP transforms the embedding space of pretrained vision models into the LLMs’ embedding space using a single linear layer, which is trained with the optimal transport-based assignment prediction objective. Specifically, we harness well-established word embeddings to bridge two modality embedding spaces. We simultaneously assign the visual and text representations to a set of word embeddings within pretrained LLMs through the optimal transport. We predict the assignment of one modality from the representation of another modality data, enforcing consistent assignments for paired multimodal data. This allows two modality representations to contain the same information, grounding the frozen LLMs’ word embedding space in visual data. Moreover, a robust semantic taxonomy of LLMs can be preserved with visual data since the LLMs interpret and reason linguistic information from correlations between word embeddings. Experimental results show that VLAP achieves substantial improvements over the previous linear transformation-based methods across a range of vision-language tasks, including image captioning, visual question answering, and cross-modal retrieval. We also demonstrate the learned visual representations hold a semantic taxonomy of LLMs, making visual semantic arithmetic possible.
 
 # Summary. An optional shortened abstract.
 summary: International Conference on Learning Representations (ICLR) 2024
@@ -45,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://openreview.net/pdf?id=lK2V2E2MNv'
 url_code: ''
 url_dataset: ''
 url_poster: ''
