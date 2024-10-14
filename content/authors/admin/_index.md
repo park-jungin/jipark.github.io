@@ -15,11 +15,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D.
+role: PhD, Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
+  - name: Yonsei University
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,8 +28,9 @@ bio: My research interests include computer vision, video understanding, multimo
 # Interests to show in About widget
 interests:
   - Computer Vision
-  - Artificial Intelligence
-  - Machine Learning
+  - Video Understanding
+  - Multi-modal Learning
+  - Vision-languagee Models
 
 # Education to show in About widget
 education:
@@ -83,6 +84,8 @@ highlight_name: true
 
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
-I recieved a PhD in the School of Electrical and Electronic Engineering from Yonsei University in 2024, advised by Prof. Kwanghoon Sohn.
+
+I am Jungin Park, currently a postdoc fellow at Yonsei University, working with Prof. Kwanghoon Sohn.
 My research interests include computer vision, video understanding, multi-modal learning, and vision-language models.
+I recieved my PhD degree in the School of Electrical and Electronic Engineering from Yonsei University in 2024, advised by Prof. Kwanghoon Sohn.
 {style="text-align: justify;"}

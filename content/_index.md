@@ -88,6 +88,42 @@ sections:
       columns: '2'
   - block: experience
     content:
+      title: Professional
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postdoctoral Fellow
+          company: Yonsei University
+          company_url: ''
+          company_logo: ''
+          location: Soeul, South Korea
+          date_start: '2024-09-07'
+          date_end: ''
+          description: |2-
+              Research topics include:
+
+              * Computer vision
+              * Video understanding
+              * Multi-modal learning
+              * Vision-language models
+        - title: Visiting Researcher
+          company: NAVER AI Lab
+          company_url: ''
+          company_logo: ''
+          location: Seongnam, South Korea
+          date_start: '2024-03-11'
+          date_end: '2024-09-06'
+          description: 
+    design:
+      columns: '2'
+  - block: experience
+    content:
       title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -106,12 +142,8 @@ sections:
           date_start: '2018-03-01'
           date_end: '2024-02-26'
           description: |2-
-              Research topics include:
-
-              * Computer vision
-              * Video understanding
-              * Multi-modal learning
-              * Vision-language models
+              * Dissertation: Language-guided spatiotemporal representation learning for video understanding
+              * Advisor: Prof. Kwanghoon Sohn
         - title: BS in Electrical and Electronic Engineering
           company: Yonsei University
           company_url: ''
